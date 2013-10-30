@@ -1,0 +1,27 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x12\x00q\x00u\x00i\x00c\x00k\x00s\x00o\x00r\x00t)
+
+[CMake]
+BuildDirs=/home/dawid/Projects/Algorytmy/quicksort/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/dawid/Projects/Algorytmy/quicksort/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+Extra Arguments=
+ProjectRootRelative=./
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=debug
+Configured Launchers=gdb
+Name=quicksort
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=quicksort,quicksort
+Project Target=quicksort,quicksort
+Working Directory=file:///home/dawid/Projects/Algorytmy/quicksort/build/
+isExecutable=false
