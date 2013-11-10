@@ -25,3 +25,6 @@ Configured from ProjectItem=quicksort,quicksort
 Project Target=quicksort,quicksort
 Working Directory=file:///home/dawid/Projects/Algorytmy/quicksort/build/
 isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

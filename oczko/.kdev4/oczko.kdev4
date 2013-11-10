@@ -1,0 +1,31 @@
+[CMake]
+BuildDirs=/home/dawid/Projects/Algorytmy/oczko/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/dawid/Projects/Algorytmy/oczko/build
+CurrentBuildType=Debug
+CurrentInstallDir=file:///usr/local
+Extra Arguments=
+ProjectRootRelative=./
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=debug
+Configured Launchers=gdb
+Name=oczko
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=oczko,oczko
+Project Target=oczko,oczko
+Working Directory=file:///home/dawid/Projects/Algorytmy/oczko/build/
+isExecutable=false
+
+[MakeBuilder]
+Default Make Environment Profile=0
+Number Of Jobs=1
+
+[Project]
+VersionControlSupport=kdevgit
